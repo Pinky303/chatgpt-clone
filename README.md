@@ -194,6 +194,5 @@ Interactive docs at **http://localhost:8000/docs**
 
 ---
 
-## License
-
-MIT
+Project Explainer
+https://chatgpt-clone-doc.netlify.app/
